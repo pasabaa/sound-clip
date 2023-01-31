@@ -3,7 +3,7 @@ import { HomePage } from "./pages/HomePage"
 
 function App() {
   return (
-    <main className="min-h-screen flex flex-col w-10/12 mx-auto">
+    <main className="min-h-screen flex flex-col w-10/12 xl:w-4/12 mx-auto">
       <HomePage />
       <Footer />
     </main>
